@@ -1,0 +1,7 @@
+Wallet: DLPn1oKXJHc82K38NyhPdxv2AYNxi8SfoQ
+  Transaction Hash: 10dea98ad67e7353cb17b8ba83bd63b429132b8bcb5b90bb4b9336794ace5596
+  Value: 6.0 DOGE
+
+  Transaction Hash: ee0b5d46b5ea172d4b792d5c02c543c5895fc920fa9745214960c8df6d311374
+  Value: 4.454586 DOGE
+
