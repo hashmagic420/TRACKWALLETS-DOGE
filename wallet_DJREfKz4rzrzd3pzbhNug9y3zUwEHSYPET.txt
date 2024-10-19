@@ -1,0 +1,7 @@
+Wallet: DJREfKz4rzrzd3pzbhNug9y3zUwEHSYPET
+  Transaction Hash: 0a8eae12d440935192b64d80be588d683607a14abaa9d83fe9049749d513f473
+  Value: 15.132486 DOGE
+
+  Transaction Hash: 632eada61e62ceb99ee33cb69b75e2423f19dbd55bc92852954c2215556b85ee
+  Value: 15.2903752 DOGE
+
