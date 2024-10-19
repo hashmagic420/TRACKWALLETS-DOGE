@@ -1,0 +1,7 @@
+Wallet: D8nJwXTK5oWDmu6TiNyfHqmUZeTaNjMRAH
+  Transaction Hash: ba6c9547bc2e41d9bf2873e6bcfeef30f706a3aa4367511aa2e9622bd122ffe0
+  Value: 16.851691 DOGE
+
+  Transaction Hash: 48cdafb836fb709b70deb188ce109b31b3d9dde6bca75254f69c1b7751f4f8b3
+  Value: 17.0095802 DOGE
+
