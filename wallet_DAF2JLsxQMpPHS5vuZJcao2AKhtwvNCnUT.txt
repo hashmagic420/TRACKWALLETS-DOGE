@@ -1,0 +1,31 @@
+Wallet: DAF2JLsxQMpPHS5vuZJcao2AKhtwvNCnUT
+  Transaction Hash: 55194c259acdde22e9111f848a4ed67363c4226a6ef049cfedbf2cf8e22a9d94
+  Value: 3.422992 DOGE
+
+  Transaction Hash: c92f2604f43468a41d3f9c02937335f97a1b2aa09e2e37638da53fb09a44be61
+  Value: 3.5808812 DOGE
+
+  Transaction Hash: 47ef547ff175adac828d416e74c3cf0e3fd7a28dbc3366c8e1f3335d7c81b823
+  Value: 6.8488178 DOGE
+
+  Transaction Hash: 5387af8c6177a12ec7e65db453a765812e8eab88ce4469e52a1e3240c33674fd
+  Value: 7.006707 DOGE
+
+  Transaction Hash: 5b54fe2056508dac57a8d3a6fc010b97986d8c01523e28575b176d35b4240e0a
+  Value: 0.001 DOGE
+
+  Transaction Hash: 274e0cf661bb2964c2309f13d042e049bb5e1d049cd495c56a8d27d373ad5100
+  Value: 7.481821 DOGE
+
+  Transaction Hash: 734d2c445eafa7283f729315214066c93d73a30c4db3b171d2d9eda1d2bc4c80
+  Value: 0.001 DOGE
+
+  Transaction Hash: 10d96d77aaf180a3b5a02e6e904aba9b60e4f9a9c44c7702045c8fccd4f48aa1
+  Value: 7.8444992 DOGE
+
+  Transaction Hash: 7e1d43846cf0ed30ccfee209a7ba3029c2c59dd3e8d9524057a6a222548ea519
+  Value: 8.98446196 DOGE
+
+  Transaction Hash: cb62c0ffd41d96940c00dc2363e878eac853faf5ace73f03f6265ea715f42b1d
+  Value: 5.83183107 DOGE
+
