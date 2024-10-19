@@ -1,0 +1,7 @@
+Wallet: DM8GL4gBKbCeCTaJehSqPFbp8c2E4ds8eh
+  Transaction Hash: c0e97ccc36dfac56e19fb5977dc50b1fa0ff593d3625542d6a8da0046e5b01d3
+  Value: 65.1234614 DOGE
+
+  Transaction Hash: eca615fddc2b0e4cce839e22535e57dcbae39e5089d2f010f2c8331efe6c88af
+  Value: 65.2813506 DOGE
+
