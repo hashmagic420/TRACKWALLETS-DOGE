@@ -1,0 +1,7 @@
+Wallet: DAuRjcJjWwt8b2HWcrTRmPXCPavx2jADdA
+  Transaction Hash: c9a897796e2a4cc851feb9417b2668fc8d3fa8af4a63a4bb1b436cbaaa68cfd9
+  Value: 9.7066602 DOGE
+
+  Transaction Hash: f8f02970132a0e7ed364f4ac0ba55aaf1e1c55ab71f207836bc1007235693284
+  Value: 9.8645494 DOGE
+
