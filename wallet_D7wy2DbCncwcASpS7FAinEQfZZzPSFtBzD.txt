@@ -1,0 +1,7 @@
+Wallet: D7wy2DbCncwcASpS7FAinEQfZZzPSFtBzD
+  Transaction Hash: 9104868bc7f5e4581d1255fce6f66a638990de60e4391948af90545dc93fa6de
+  Value: 7.7225226 DOGE
+
+  Transaction Hash: 293f4c9ce8d59053a7a56f6bc9a2ed8a19fb924629918611e830db22adecf937
+  Value: 7.8804118 DOGE
+
