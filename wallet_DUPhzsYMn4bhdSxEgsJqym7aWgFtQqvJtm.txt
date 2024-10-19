@@ -1,0 +1,7 @@
+Wallet: DUPhzsYMn4bhdSxEgsJqym7aWgFtQqvJtm
+  Transaction Hash: ee37b505b8e823923111fe8fd88b3c315cb3ad2ac3dba3995adceaa0bfe55261
+  Value: 8.5 DOGE
+
+  Transaction Hash: 6c4fa038fa9dc2ee8b3d26986ba6a61773816409634b2d541136ba4e1e9e1a87
+  Value: 8.5837544 DOGE
+
