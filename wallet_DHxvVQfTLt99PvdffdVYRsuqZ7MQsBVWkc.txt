@@ -1,0 +1,7 @@
+Wallet: DHxvVQfTLt99PvdffdVYRsuqZ7MQsBVWkc
+  Transaction Hash: eaf1f1d9a0970b3596d1f147f3f1e6f3a7fffe3a13bd47c100aea8c7d6093c81
+  Value: 14.5741742 DOGE
+
+  Transaction Hash: 458f2a0b951352b3f85402b74af925a00fb76ab3f182cdc10df098078e7d1217
+  Value: 14.7320634 DOGE
+
