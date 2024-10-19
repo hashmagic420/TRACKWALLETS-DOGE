@@ -1,0 +1,7 @@
+Wallet: DS4hgRJ8eJbr9ycRC7rtVpoixFePkygJxV
+  Transaction Hash: ba89283c5e7cce9ffa5dc50e6a711a5827bc9cf4a59b1605261dc57c915ba017
+  Value: 15.8488178 DOGE
+
+  Transaction Hash: 50f0342c164ed10f65c3200f0e158fc61a7bc9cbf6ed51241a694cdca08d6471
+  Value: 16.006707 DOGE
+
