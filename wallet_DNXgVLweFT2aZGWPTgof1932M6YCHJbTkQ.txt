@@ -1,0 +1,7 @@
+Wallet: DNXgVLweFT2aZGWPTgof1932M6YCHJbTkQ
+  Transaction Hash: d582e96415a78d2521e7fc3bf60f139eb019d7235c1acc61879a18abd837e6cc
+  Value: 4.2808344 DOGE
+
+  Transaction Hash: a4c4d841a707b383369e8ce8862376a74cfb7ff8fc14f74400b52ee224a5da67
+  Value: 4.4387236 DOGE
+
