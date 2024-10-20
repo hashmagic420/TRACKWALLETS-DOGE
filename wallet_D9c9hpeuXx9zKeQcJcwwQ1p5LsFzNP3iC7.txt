@@ -1,4 +1,10 @@
 Wallet: D9c9hpeuXx9zKeQcJcwwQ1p5LsFzNP3iC7
+  Transaction Hash: c86cf5b593dc48eb86ad7afc5139cdc384b5c1771f7ef76e32b5696718786b1a
+  Value: 1271.5769812 DOGE
+
+  Transaction Hash: 74e7989cc201f97cdd1b3a29a438d9312e36cef289394f46d63ac7d236bdadc6
+  Value: 246.3441108 DOGE
+
   Transaction Hash: 28f80978ecdb3fada9d607d2a236caa5692e896f91f4a0f9c99200ba0d4f597f
   Value: 518.53617408 DOGE
 
@@ -25,10 +31,4 @@ Wallet: D9c9hpeuXx9zKeQcJcwwQ1p5LsFzNP3iC7
 
   Transaction Hash: 52a9e5e84a951b7f570f88510b57ecf125d8d7688489218294dcffda0f899fd1
   Value: 2039.84969602 DOGE
-
-  Transaction Hash: eaf3b30b91c6a894e2699429a458e649d6e35e4a57ad0f98442d2ca1eb0cef00
-  Value: 0.001 DOGE
-
-  Transaction Hash: b62d959ecff5360e449a4b22e892f8d5214954523184b7e3f9a7cf88e6558647
-  Value: 1.961817 DOGE
 
