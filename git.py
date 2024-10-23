@@ -12,7 +12,7 @@ app = dash.Dash(__name__)
 DOGE_API_URL = "https://api.blockcypher.com/v1/doge/main/addrs/{}/full"
 
 # GitHub API details
-GITHUB_TOKEN = "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"  # Replace with your GitHub token
+GITHUB_TOKEN = "xxxx"  # Replace with your GitHub token
 GITHUB_REPO = "hashmagic420/TRACKWALLETS-DOGE"  # The repo to post to (user/repo format)
 GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/contents/"  # Base API URL
 
