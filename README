@@ -1,14 +1,14 @@
-Dogecoin Wallet Tracker
+#Dogecoin Wallet Tracker
 This is a Dash-based web application that allows users to track Dogecoin wallet transactions. The app retrieves recent transactions from BlockCypher API and commits the information to a specified GitHub repository.
 
-Features
+#Features
 Track multiple Dogecoin wallet addresses simultaneously.
 Display transaction details such as transaction hash and value.
 Automatically commit transaction updates to a GitHub repository as individual files for each wallet.
 Prerequisites
 Before running this app, make sure you have the following installed:
 
-Python 3.7+
+#Python 3.7+
 dash
 requests
 A valid GitHub Token for authenticating API requests.
@@ -16,14 +16,14 @@ A GitHub repository to store the transaction data.
 Installation
 Clone this repository:
 
-bash
-Copy code
+#bash
+
 git clone https://github.com/yourusername/dogecoin-wallet-tracker.git
 cd dogecoin-wallet-tracker
 Install the required Python packages:
 
-bash
-Copy code
+#bash
+
 pip install dash requests
 Configure the GitHub token and repository:
 
@@ -32,21 +32,21 @@ Set the GITHUB_REPO to the desired repository in the format username/repo.
 How to Run
 Run the application with the following command:
 
-bash
-Copy code
+#bash
+
 python app.py
 Open a browser and navigate to http://127.0.0.1:8050/.
 
-Enter Dogecoin wallet addresses (one per line) and click Track Wallets to retrieve transaction details. The information will be displayed in the app and also committed to your specified GitHub repository.
+#Enter Dogecoin wallet addresses (one per line) and click Track Wallets to retrieve transaction details. The information will be displayed in the app and also committed to your specified GitHub repository.
 
-GitHub Integration
+#GitHub Integration
 Each tracked wallet's transaction details will be saved as a .txt file in the specified GitHub repository. The file name will follow the format: wallet_<wallet_address>.txt.
 
-API Usage
+#API Usage
 This app uses the BlockCypher Dogecoin API to fetch transaction data. You can adjust the DOGE_API_URL in the code to use a different Dogecoin API service if needed.
 
-Contributing
+#Contributing
 Feel free to fork the repository and submit pull requests. Make sure to test any new features before submitting.
 
-License
+#License
 This project is licensed under the MIT License.
